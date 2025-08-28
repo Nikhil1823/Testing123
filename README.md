@@ -1,1 +1,1 @@
-Hi i think this is a readme file
+Added a readme file for the project
